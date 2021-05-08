@@ -10,7 +10,7 @@
 4. 일정
 - 1주차: 인프라 세팅, 스마트 컨트랙트와 NFT에 대한 이해. 공부 결과물 형태 합의.
 - 2주차: 각 테이블과 칼럼에 대한 정리. ERC-721&ERC-1155과 주요 코인들에 대한 탐색. (주요 코인 합의)
-  - 'crypto_ethereum'에서  *token address*, *traces*, *transactions* 세 테이블 볼 것
+  - 'crypto_ethereum'에서  *token_transfer*, *traces*, *transactions* 세 테이블 볼 것
   - 관련 토큰: Axs, sand, super rare
 - 3주차: 실제 거래 사례에 대해 트랜잭션 로그와 비교하여 로그 이해하기. 로그와 스마트 컨트랙트 대조.
 - 4주차: 주요 노드들에 대한 통계량 산출. 시장에 대한 통계량 산출. 위의 질문들에 대한 의문 해소.
